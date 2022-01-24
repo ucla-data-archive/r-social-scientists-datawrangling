@@ -1,0 +1,30 @@
+Data wrangling with dplyr and tidyr
+========================================================
+author: 
+date: 
+autosize: true
+
+Questions
+========================================================
+
+- How can I select specific rows and/or columns from a dataframe? 
+- How can I combine multiple commands into a single command? 
+- How can I create new columns or remove existing columns from a dataframe? 
+- How can I reformat a dataframe to meet my needs?
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+========================================================
+For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
